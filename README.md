@@ -18,4 +18,4 @@ In our project, various tools and technologies are used for both the frontend (c
 2. MySQL: A relational database management system (RDBMS) used for storing and retrieving data. In this code, it's likely used to interact with a MySQL database.
 
 # Git:
-While not explicitly shown in the provided code, version control systems like Git are often used for tracking changes in code, collaborating and managing project versions.
+Version control systems like Git are often used for tracking changes in code, collaborating with others and managing project versions.
